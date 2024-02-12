@@ -1,0 +1,2 @@
+# Custom-Classification-Models-A-Machine-Learning-Journey-without-Sklearn
+Prepare your datasets by cleaning, encoding, and selecting features for optimal model performance. Train Adaboost and Logistic Regression models from scratch, implementing algorithms and optimizing parameters. Evaluate models rigorously, saving the best-performing one for future use, alongside comprehensive documentation for reproducibility.
